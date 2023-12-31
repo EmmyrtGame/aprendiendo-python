@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44ed562-75c9-472e-9841-9627befce076" name="Changes" comment="Avance 3">
+      <change afterPath="$PROJECT_DIR$/Calculadora mejor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Diccionario.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/If y Comparaciones.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Funciones.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +54,10 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Python.Calculadora Básica.executor": "Run",
+    "Python.Calculadora mejor.executor": "Run",
     "Python.Calculadora mejorada.executor": "Run",
     "Python.Funciones.executor": "Run",
+    "Python.If y Comparaciones.executor": "Run",
     "Python.If.executor": "Run",
     "Python.Juego de palabras.executor": "Run",
     "Python.Listas y funciones.executor": "Run",
@@ -115,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702493326436</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Avance 3">
+      <option name="closed" value="true" />
+      <created>1702495044809</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702495044809</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
